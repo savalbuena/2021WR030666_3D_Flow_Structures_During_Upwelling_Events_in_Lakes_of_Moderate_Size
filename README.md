@@ -13,6 +13,7 @@ This repository contains the following:
 	1.6 "psi3d_20-11-12" compiled executable psi3d file to run numerical simulations.
 
 2 "NodeTimeSeries" contains the numerical results of vertical profiles at locations of interest (i.e., sites for calibration and validation of the numerical model). 
+	
 	2.1 "tfx_y.txt" files of sites at locations x, y of the model's bathymetry grid
 	2.2 "LocationSites.txt" indicates the locations x, y of sites used for numerical calibration and validation. Columns "idx" and "idy" align to files tfx_y.txt
 
